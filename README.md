@@ -4,7 +4,7 @@
 
 
 ## PEÅS: A Platform For Streamline Precision Ensemble Generation
-<br /><img align = "center" width="400" alt="focus" src="https://github.com/user-attachments/assets/58f358a2-8aa9-4152-a288-50c60c28d0cd">
+<br /><img align = "center" width="500" alt="focus" src="https://github.com/user-attachments/assets/58f358a2-8aa9-4152-a288-50c60c28d0cd">
 <br />
 <br />
 #
