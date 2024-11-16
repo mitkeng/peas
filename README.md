@@ -43,4 +43,3 @@ Currently, PEÅS only generates a conformation ensemble exclusively for protonat
 -   Quantum mechanical calculations and data used in building the models that are modulized in PEÅS were organically generated through computational resources and services provided by the Institute for Cyber-Enabled Research [(ICER)](https://github.com/MSU-iCER) at Michigan State University.
 
 <br/>
-<br/>
