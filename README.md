@@ -18,11 +18,11 @@ The resulting ensemble produced by PEÅS is ultra filtered in conformational spa
 
 #
 ### **Benefits**
-- Stepwise preliminary results
 - Improves modeling success
 - Limited user-intervention
 - Reasonable turnaround time
 - Reduces false positives
+- Stepwise preliminary results
 - User-friendly interface
 #
 ### Accessibility
