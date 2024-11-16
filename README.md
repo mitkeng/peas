@@ -14,6 +14,11 @@ PEÅS (**P**recise **E**nsemble **A**utonomous **S**ampling) is an exceptionally
 
 The resulting ensemble produced by PEÅS is ultra filtered in conformational space and energy.
 
+#
+### **Hallmark Steps**
+<br /><img align = "center" width="800" alt="focus" src="https://github.com/user-attachments/assets/e29fbdef-6e3f-4f2a-8b43-70602ae1a5a5">
+<br />
+<br />
 
 
 #
