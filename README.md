@@ -30,6 +30,8 @@ The resulting ensemble produced by PEÅS is ultra filtered in conformational spa
 ### **Limitations**
 #
 Currently, PEÅS only generates a conformation ensemble exclusively for protonated, [M+H]+, or singly deprotonated, [M-H]-, molecular ion species. Protonation or deprotonation is assigned to either a nitrogen atom or an oxygen atom, thus, all other atom types are not supported. Refer to the documentations for the programs (i.e., CCSF, Confab, or S∈∈R) implemented in PEÅS for additional carryover limitations. 
+
+#
 ### Accessibility
  [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">](https://colab.research.google.com/drive/1zuXFbOpdVfl6mGeSy_ydBIoPKtFji6vu#scrollTo=Ul_OFH_c2jB5) <code style="color : grey">to access the PEÅS platform.</code>
 <br />
