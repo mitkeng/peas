@@ -15,8 +15,8 @@ The resulting ensemble produced by PEÅS is ultra filtered in conformational spa
 
 #
 ### **Hallmark Steps**
+<img align = "center" width="1435" alt="Screenshot 2024-11-16 at 2 50 08 PM" src="https://github.com/user-attachments/assets/bc6da1d6-94c9-47ec-b346-1ebd3732c9f5">
 
-<img align = "center" width="2200" src="https://github.com/user-attachments/assets/b06d9281-3927-4cc2-8f82-293d1757a5ea">
 
 #
 ### **Benefits**
