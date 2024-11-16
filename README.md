@@ -35,3 +35,12 @@ Currently, PEÅS only generates a conformation ensemble exclusively for protonat
 ### Accessibility
  [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">](https://colab.research.google.com/drive/1zuXFbOpdVfl6mGeSy_ydBIoPKtFji6vu#scrollTo=Ul_OFH_c2jB5) <code style="color : grey">to access the PEÅS platform.</code>
 <br />
+
+#
+### Acknowledgement 
+-   [Merz research group](https://github.com/merzlab) 
+
+-   Quantum mechanical calculations and data used in building the models in PEÅS were organically generated through computational resources and services provided by the Institute for Cyber-Enabled Research [(ICER)](https://github.com/MSU-iCER) at Michigan State University.
+
+<br/>
+<br/>
