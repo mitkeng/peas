@@ -3,7 +3,7 @@
 
 
 
-## PEÅS: A Platform that Streamline Precision Ensemble Generation
+## PEÅS: A Platform For Streamline Precision Ensemble Generation
 
 <br /><img align = "center" width="400" alt="focus" src="https://github.com/user-attachments/assets/c5bc15c0-605c-491c-83d7-57ad84e9ac80">
 <br />
@@ -18,7 +18,12 @@ The resulting ensemble produced by PEÅS is ultra filtered in conformational spa
 
 #
 ### **Benefits**
-
+- Stepwise preliminary results
+- Improves modeling success
+- Limited user-intervention
+- Reasonable turnaround time
+- Reduces false positives
+- User-friendly interface
 #
 ### Accessibility
  [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">](https://colab.research.google.com/drive/1zuXFbOpdVfl6mGeSy_ydBIoPKtFji6vu#scrollTo=Ul_OFH_c2jB5) <code style="color : grey">to access the PEÅS platform.</code>
