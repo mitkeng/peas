@@ -3,7 +3,7 @@
 
 
 
-## PEÅS: A Platform For Streamline Precision Ensemble Generation
+## PEÅS: An Application For Precision Ensemble Generation
 <br /><img align = "center" width="425" alt="focus" src="https://github.com/user-attachments/assets/58f358a2-8aa9-4152-a288-50c60c28d0cd">
 <br />
 <br />
@@ -25,7 +25,7 @@ To initiate, in the **Seed Structure and Charge Selection** section, a SMILE or 
 In completion of job, ensemble(s) generated will be converted to a zip file and automatically downloaded. Additionally, accessory files containing run details and preliminary results are also avaiable for user's discretion.
 
 #
-### **Benefits**
+### **Application Benefits**
 - Improves modeling success
 - Limited user-intervention
 - No structural artifact
