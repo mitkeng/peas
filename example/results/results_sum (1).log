@@ -1,0 +1,46 @@
+__________________________________________________
+
+  .::∈∈∈∈∈     .:∈∈∈∈∈∈     .:∈∈∈∈∈∈   ||∈∈∈∈∈∈:.
+ '''          ''           ''          |||    '''
+ '::         '''          '''          |||    '''
+  ':|||::.   ||||||||||   ||||||||||   ||| ..::'
+       '''   '''          '''          |||  \ \ 
+       '''    ''.          ''.         |||   \ \ 
+ ∈∈∈∈∈::'      ':∈∈∈∈∈∈     ':∈∈∈∈∈∈   |||    \ \ 
+
+   State      Ensemble       Energy    Recognition
+__________________________________________________
+==================================================
+S∈∈R:           Model MK1.0            09-Sep-2024
+==================================================
+Documentation website:
+https://github.com/mitkeng/SEER
+
+
+To cite this work use:
+S∈∈R Version 1.0,
+M. Keng and K. M., Jr. Merz, 2024
+
+Code and interface:
+M. Keng 
+
+
+
+Start time:              15:20:15     16-Nov-2024
+Completed time:          15:25:13     16-Nov-2024
+Runtime:                    04:96
+
+
+
+Test system: Flavin-mononucleotide
+Charge mode: [M-H]-
+Optimization method: ANI-2x
+
+**************** Results Summary ****************
+
+  Test ID         Energy       Rel. E      Mole
+                (hartree)    (kcal/mol)    Frac.
+-------------------------------------------------
+Model Rank1     -1953.635        0.0        1.0    
+Model Rank2    -1953.6167       11.48       0.0    
+Model Rank3     -1953.605       18.81       0.0    
