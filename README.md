@@ -41,7 +41,7 @@ Currently, PEÅS only generates a conformation ensemble exclusively for protonat
 
 #
 ### Accessibility
- [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">]() <code style="color : grey">to access the PEÅS platform is available upon publication.</code>
+ [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">]() <code style="color : grey">access to the PEÅS platform is pending publication.</code>
 <br />
 
 #
