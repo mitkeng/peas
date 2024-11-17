@@ -17,6 +17,12 @@ The resulting ensemble produced by PEÅS is ultra filtered in conformational spa
 ### **Hallmark Steps**
 <img align = "center" width="1435" alt="Screenshot 2024-11-16 at 2 50 08 PM" src="https://github.com/user-attachments/assets/bc6da1d6-94c9-47ec-b346-1ebd3732c9f5">
 
+#
+### **User Brief**
+
+To initiate, in the **Seed Structure and Charge Selection** section, a SMILE or an XYZ format file is applicable. For the SMILE option, enter an ID or name in the _molecule_name_ field along with a SMILE string. For the XYZ file option, upload or drop the file into the local directory. Next, fill in the _folder_name_ field (this is where the system input will be temporarily stored) and select a desired ion species from the _charge_mode_ options (i.e., [M-H]- or [M+H]+). Finally, in the **CCS Focusing** section, enter a reference CCS value in the _Experimental_CCS_ field. 
+
+In completion of job, ensemble(s) of conformations will be converted to a zip file and automatically downloaded. Additionally, accessory files containing run details and preliminary results are also avaiable for user's discretion.
 
 #
 ### **Benefits**
