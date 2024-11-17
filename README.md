@@ -33,6 +33,7 @@ In completion of job, ensemble(s) generated will be converted to a zip file and 
 - Reduces false positives
 - Stepwise preliminary results
 - User-friendly interface
+- Work volume reduction
 
 #
 ### **Limitations**
