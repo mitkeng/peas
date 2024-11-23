@@ -4,10 +4,8 @@
 
 
 ## PEÅS: An Application For Precision Ensemble Generation
-<br /><img align = "center" width="425" alt="focus" src="https://github.com/user-attachments/assets/58f358a2-8aa9-4152-a288-50c60c28d0cd">
+<br /><img align = "center" width="425" alt="focus" src="https://github.com/user-attachments/assets/7e654063-83f0-4060-a131-3393223c4c96">
 
-
-<br />
 <br />
 
 #
