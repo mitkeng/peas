@@ -3,16 +3,20 @@
 
 
 
+
+
 ## PEÅS: An Application For Precision Ensemble Generation
 <br /><img align = "center" width="425" alt="focus" src="https://github.com/user-attachments/assets/7e654063-83f0-4060-a131-3393223c4c96">
-
 <br />
 
 #
 ### **Introduction**
 PEÅS (**P**recise **E**nsemble **A**utonomous **S**ampling) is an exceptionally user-friendly python based application for generating experimentally relevant gas phase chemical structures. PEÅS integrates and modulizes two in-house machine learning programs [(S∈∈R)](https://github.com/mitkeng/SEER) (**S**tate **E**nsemble **E**nergy **R**ecognition) and [(CCSF)](https://github.com/mitkeng/CCS_Focusing) (**C**ollision **C**ross **S**ection **F**ocusing) that function as a charge site (protonation or deprotonation) predictor and an empirical conformation space filter, respectively. Both programs were trained on datasets consisting of DFT (Density Functional Theory) ground truth systems, which experimental validities were assessed using ion-mobility mass spectrometry collision cross section. A third module in PEÅS employs Confab for conformation generation, as required for ensemble generation.
 
-The resulting ensemble produced by PEÅS is ultra filtered in conformational space and energy.
+Finally, our "normal walk" algorithm is applied to eliminate conformation redundancy. The resulting ensemble produced by PEÅS is ultra filtered in conformational space and energy. 
+
+<img align = "center" width="425" alt="focus" src="https://github.com/user-attachments/assets/a9b14edc-04da-46ce-912b-0f69665641e1">
+
 
 #
 ### **Hallmark Steps**
