@@ -1,13 +1,8 @@
 
 [![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org) ![user](https://img.shields.io/badge/GoogleColab-grey?style=flat&logo=googlecolab) ![user](https://img.shields.io/badge/Chemodeling-App-yellow?) ![user](https://img.shields.io/badge/Userfriend-1.0-sgreen?) 
 
-
-
-
-
 ## PEÅS: An Application For Precision Ensemble Generation
-<br /><img align = "center" width="425" alt="focus" src="https://github.com/user-attachments/assets/7e654063-83f0-4060-a131-3393223c4c96">
-<br />
+<br /><img align = "center" width="490" alt="focus" src="https://github.com/user-attachments/assets/36d5431b-bf1b-4a46-b6c4-5476e6f54a27">
 
 #
 ### **Introduction**
@@ -15,7 +10,7 @@ PEÅS (**P**recise **E**nsemble **A**utonomous **S**ampling) is an exceptionally
 
 Finally, our "normal walk" algorithm is applied to eliminate conformation redundancy. The resulting ensemble produced by PEÅS is ultra filtered in conformational space and energy. 
 
-<img align = "center" width="425" alt="focus" src="https://github.com/user-attachments/assets/a9b14edc-04da-46ce-912b-0f69665641e1">
+<img align = "center" width="420" alt="focus" src="https://github.com/user-attachments/assets/a9b14edc-04da-46ce-912b-0f69665641e1">
 
 
 #
