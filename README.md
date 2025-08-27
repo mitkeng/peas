@@ -45,6 +45,13 @@ Currently, PEÅS only generates a conformation ensemble exclusively for protonat
 <br />
 
 #
+### Relevant Citations
+Keng, M.; Merz, K. M., Jr. Eliminating the Deadwood: A Machine Learning Model for CCS Knowledge-Based Conformational Focusing for Lipids. Journal of Chemical Information and Modeling 2024. DOI: 10.1021/acs.jcim.4c01051
+
+Keng, M.; Merz, K. M., Jr. State Ensemble Energy Recognition (SEER): A Hybrid Gas-Phase Molecular Charge State Predictor. Journal of Chemical Information and Modeling 2025. DOI: 10.1021/acs.jcim.5c00980
+<br />
+
+#
 ### Acknowledgement 
 -   [Merz research group](https://github.com/merzlab) 
 
