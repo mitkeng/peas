@@ -41,9 +41,13 @@ Currently, PEÅS only generates a conformation ensemble exclusively for protonat
 
 #
 ### Accessibility
- [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">]() <code style="color : grey">access to the PEÅS platform is pending publication.</code>
+ [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">](https://colab.research.google.com/drive/17GfILwPGDC1nMBoDxwrX4AHEropySGZ5?usp=sharing) <code style="color : grey">click here to access PEÅS online application.</code>
 <br />
 
+#
+### Publication
+Pending
+<br />
 #
 ### Relevant Citations
 Keng, M.; Merz, K. M., Jr. Eliminating the Deadwood: A Machine Learning Model for CCS Knowledge-Based Conformational Focusing for Lipids. Journal of Chemical Information and Modeling 2024. DOI: 10.1021/acs.jcim.4c01051
