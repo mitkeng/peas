@@ -46,7 +46,7 @@ Currently, PEÅS only generates a conformation ensemble exclusively for protonat
 
 #
 ### Publication
-JCIM review pending.
+https://doi.org/10.1021/acs.jcim.5c02104
 <br />
 #
 ### Relevant Citations
